@@ -16,12 +16,12 @@
 
 本着“没有就自己造一个”的朴素想法，我们编写了：
 
-> **<big> [《技术文档标准》(Technical Document Standard / TDS)](standard.md)</big>**
+> **<big> [《技术文档标准》(Technical Document Standard / TDS)](technical-document-standard/main.md)</big>**
 
 标准都不是孤立存在，他们互相依赖，TDS 也不例外。实践 TDS 的过程中，你还可能用到：
 
-> *[规范性引用的标准及其现行版本](docs/index.md)*  
-> *[参考的标准及其现行版本](docs/index.md)*  
+> *[规范性引用的标准及其现行版本](related/index.md)*  
+> *[参考的标准及其现行版本](related/index.md)*  
 
 ## VSCode 扩展
 
