@@ -165,7 +165,7 @@ GB/T 20000.1 界定的术语和定义适用于本文档。
 
 - 文档编号 SN
 - 文档版本 Version
-- 控制范围 Range
+- 控制范围 Scope
 - 文档类型 Type
 - 编制单位 Organization
 - 发布日期 Release
