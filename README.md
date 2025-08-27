@@ -43,4 +43,4 @@
 
 ## 快速开始
 
-你可以从 [《技术文档标准》的 Markdown 源码](https://github.com/forw-dev/technical-document-standard/raw/refs/heads/master/standard.md) 开始学习，它本身就是一个不错的 TDS 示例。
+你可以从 [《技术文档标准》的 Markdown 源码](https://github.com/forw-dev/technical-document-standard/raw/refs/heads/master/technical-document-standard/main.md) 开始学习，它本身就是一个不错的 TDS 示例。
