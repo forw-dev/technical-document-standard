@@ -29,7 +29,7 @@
 
 但这类流式文件编辑器生成的文件，无法用 Git 进行字符粒度的版本控制，这对专业程序员来说，是无法接受的。
 
-为此，我们开发了 VSCode 插件，名字就叫 Technical Document Standard，帮你用 Markdown 实现 TDS。
+为此，我们开发了 VSCode 插件，名字就叫 **Technical Document Standard**，帮你用 Markdown 实现 TDS。
 
 主要功能包括：
 
