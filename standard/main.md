@@ -1,7 +1,3 @@
----
-paper: A4
----
-
 # 技术文档标准 Technical Document Standard
 
 - 文档版本: 2.00
