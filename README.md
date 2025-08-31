@@ -25,7 +25,7 @@
 
 ## VSCode 扩展
 
-你完全可以使用 Microsoft Word 或 Apple Pages 等软件，按照 TDS 的要求，编写自己的高质量技术文档。
+你完全可以用 Microsoft Word 或 Apple Pages 等软件，按照 TDS 的要求，编写自己的高质量技术文档。
 
 但这些流式文件编辑器生成的文件，无法用 Git 进行字符粒度的版本控制，这对专业程序员来说，是无法接受的。
 
