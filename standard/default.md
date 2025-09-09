@@ -1,8 +1,3 @@
----
-h1Center: true
-h2Center: true
----
-
 # 技术文档标准 Technical Document Standard
 
 - 文档版本: 2.00
@@ -54,7 +49,7 @@ GB/T 20000.1 界定的术语和定义适用于本文档。
 
 ### 3.2. 不分页文档 Non-Paged Document
 
-内容连续展示的文档。如：Web 页、文本文档等。
+内容连续展示的文档。如：Web 页、文本文档、 Markdown 文档等。
 
 ### 3.3. 分页文档 Paged Document
 
