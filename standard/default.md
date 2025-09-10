@@ -536,7 +536,7 @@ The total energy of an isolated system remains constant over time.
 正确示例：2% ～ 5%
 ```
 
-## 附录 A （规范性）封面的示意
+## 附录 A （资料性）封面的示意
 
 ![封面](image/cover.png)
 
